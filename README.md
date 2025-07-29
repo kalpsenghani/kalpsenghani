@@ -3,7 +3,7 @@
 Hi, I’m Kalp Senghani 👋  
 A passionate Full Stack Developer & AI Enthusiast based in Toronto 🇨🇦
 
-📬 Reach me at **kalpsenghani@gmail.com**  
+📬 Reach me at **kalpsenghani0601@gmail.com**  
 
 I love building clean, scalable web apps, exploring AI integrations, and creating digital solutions that solve real-world problems.
 
@@ -49,9 +49,9 @@ I love building clean, scalable web apps, exploring AI integrations, and creatin
 
 # ⚡ Noteworthy Projects:
 
-🚀 **AI-Powered Job Search Assistant** — Built with Next.js, Node.js, OpenAI  
-🚀 **Expense Analyzer with AI** — Real-time bank statement parsing and analysis  
-🚀 **Personal Life Operating System (PLOS)** — Modular Next.js & Supabase SaaS for productivity
+🚀 **AI-Powered Job Advisor** — Built with Next.js, Node.js, OpenAI  
+🚀 **YouTube Analyzer with AI** — Real-time bank statement parsing and analysis  
+🚀 **Crypto Analytics Dashboard** — Tracking and Analyzing cryptocurrencies data in real time.
 
 ---
 
