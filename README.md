@@ -5,17 +5,17 @@
 
 - I’m currently working on [YouTube Analyzer](https://yt-analyzer-kappa.vercel.app/)
 
-- I’m currently learning **- 🚀 Full-Stack AI SaaS Development with **Next.js**, **Python**, and **Supabase** - 🤖 Building AI agents using **LangChain**, **OpenAI API**, and **Vector Databases** - 🌐 Advanced DevOps: **Docker Compose**, **Nginx**, and **CI/CD** - 🧩 System Design & DSA for technical interviews**
+- I’m currently learning **- Full-Stack AI SaaS Development with **Next.js**, **Python**, and **Supabase** - Building AI agents using **LangChain**, **OpenAI API**, and **Vector Databases** - Advanced DevOps: **Docker Compose**, **Nginx**, and **CI/CD** - System Design & DSA for technical interviews**
 
 - I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://kalpsenghani.com/](https://kalpsenghani.com/)
+- All of my projects are available at [https://kalpsenghani.com/](https://kalpsenghani.com/)
 
-- 💬 Ask me about **- Full-Stack Development (React, Node.js, TypeScript, MongoDB/PostgreSQL) - AI-powered app development using OpenAI, LangChain, and HuggingFace - Building scalable SaaS products from scratch - Automation using Python and APIs - Docker, GitHub Actions, and CI/CD setup**
+- Ask me about **- Full-Stack Development (React, Node.js, TypeScript, MongoDB/PostgreSQL) - AI-powered app development using OpenAI, LangChain, and HuggingFace - Building scalable SaaS products from scratch - Automation using Python and APIs - Docker, GitHub Actions, and CI/CD setup**
 
-- 📫 How to reach me **kalpsenghani0601@gmail.com**
+- How to reach me **kalpsenghani0601@gmail.com**
 
-- 📄 Know about my experiences [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://kalpsenghani.com/Kalp_Full_Stack.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://kalpsenghani.com/Kalp_Full_Stack.pdf)
+- Know about my experiences [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://kalpsenghani.com/Kalp_Full_Stack.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://kalpsenghani.com/Kalp_Full_Stack.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
