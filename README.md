@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpsenghani&label=Profile%20views&color=0e75b6&style=flat" alt="kalpsenghani" /> </p>
 
-- 🔭 I’m currently working on [YouTube Analyzer](https://yt-analyzer-kappa.vercel.app/)
+- I’m currently working on [YouTube Analyzer](https://yt-analyzer-kappa.vercel.app/)
 
-- 🌱 I’m currently learning **- 🚀 Full-Stack AI SaaS Development with **Next.js**, **Python**, and **Supabase** - 🤖 Building AI agents using **LangChain**, **OpenAI API**, and **Vector Databases** - 🌐 Advanced DevOps: **Docker Compose**, **Nginx**, and **CI/CD** - 🧩 System Design & DSA for technical interviews**
+- I’m currently learning **- 🚀 Full-Stack AI SaaS Development with **Next.js**, **Python**, and **Supabase** - 🤖 Building AI agents using **LangChain**, **OpenAI API**, and **Vector Databases** - 🌐 Advanced DevOps: **Docker Compose**, **Nginx**, and **CI/CD** - 🧩 System Design & DSA for technical interviews**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
-
-- 🤝 I’m looking for help with [YouTube Ananlyzer](https://yt-analyzer-kappa.vercel.app/)
+- I’m looking to collaborate on **Full Stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://kalpsenghani.com/](https://kalpsenghani.com/)
 
