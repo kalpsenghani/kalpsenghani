@@ -12,7 +12,7 @@
 - Open to collaborating on **Full Stack / AI / SaaS Projects**
 - Portfolio: **https://kalpsenghani.com/**
 - Reach me at **kalpsenghani0601@gmail.com**
-- Resume: **chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://kalpsenghani.com/KalpResume.pdf**
+- Resume: **https://kalpsenghani.com/KalpResume.pdf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
